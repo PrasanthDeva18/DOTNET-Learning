@@ -9,6 +9,7 @@ namespace DataTypes
             // structure of type declaration in c#
             // type variablename;
             // int, double, string, char, bool; 
+            // in c# name must be identified with unique, these unique names are called identifiers
 
             int a = 10;
             bool isValue = true;
