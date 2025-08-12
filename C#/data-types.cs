@@ -37,6 +37,22 @@ namespace DataTypes
             Console.WriteLine(x + y + z);
             Console.WriteLine(a1 + b1 + c);
 
+            // const a22;
+            // a22 = 10;
+
+            const int a22 = 10;
+
+            Console.WriteLine(a22);
+
+            string a21 = "Hello ";
+
+            string a23 = "World";
+
+            Console.WriteLine(a21 + a23);
+
+            string aa_out = a21 + a23;
+
+            Console.WriteLine(aa_out);
         }
     }
 
